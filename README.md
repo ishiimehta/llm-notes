@@ -8,3 +8,4 @@ with code and my learnings along the way.
   logits/softmax, greedy decoding vs sampling
 - `02_summarization.ipynb` — encoder-decoder architecture, cross-attention,
   comparing extractive vs abstractive summarization models
+- `03_langchain_basics.ipynb` — loading PDFs with PyPDFLoader, understanding Document objects and metadata, splitting documents into chunks, and experimenting with chunk size and overlap.
